@@ -1,0 +1,28 @@
+{
+  "name": "csvfyjson",
+  "version": "0.0.0",
+  "description": "Clean CSV to json converter",
+  "main": "index.js",
+  "bin": {
+    "csvfyjson": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "json",
+    "csv-json-converter",
+    "converter",
+    "csvfyjson"
+  ],
+  "author": "Kaustav Chakraborty",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "6.2.0"
+  },
+  "dependencies": {
+    "csvtojson": "2.0.10"
+  }
+}
