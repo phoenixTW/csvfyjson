@@ -1,6 +1,6 @@
 {
   "name": "csvfyjson",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Clean CSV to json converter",
   "main": "index.js",
   "bin": {
