@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const csvToJson = require("csvtojson");
 const fs = require("fs");
 
